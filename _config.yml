@@ -297,7 +297,16 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-multiple-languages-plugin
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+# Localization
+languages: ["de", "en", "es"]
+exclude_from_localizations: ["javascript", "images", "css"]
+default_locale_in_subfolder: true
+defaultLang: en
+languageNames:
+  de: Deutsch
+  en: English

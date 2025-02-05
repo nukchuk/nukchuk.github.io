@@ -1,0 +1,11 @@
+site:
+  name: Mi Examplo Website
+  tagline:  un buen exemplo!
+  description: This examplo website will amaze you!
+  keywords: examplo, website, amazing
+
+main:
+  welcomeSection:
+    anchor: Bienwenido
+    heading: Bienwenido to this marvelous webseite.
+    p1: Milles of thousands of people are amazed by this site. Are you?
